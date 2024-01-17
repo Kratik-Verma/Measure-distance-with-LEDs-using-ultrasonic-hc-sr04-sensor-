@@ -10,7 +10,6 @@ const int LED4 = 5;
 const int LED5 = 4;
 const int LED6 = 3;
 const int LED7 = 2;
-const int buzzer = 9;
 
 int duration = 0;
 int distance = 0;
@@ -49,7 +48,6 @@ void loop()
   if ( distance <= 5 )
   {
     digitalWrite(LED1, HIGH);
-    digitalWrite(buzzer, HIGH);
   }
   else
   {
