@@ -16,3 +16,11 @@ Requirement:
 4. 7 x 220ohm resistor.
 5. Breadboard.
 6. Hookup wires.
+
+ Open
+ https://github.com/Kratik-Verma/Measure-distance-with-LEDs-using-ultrasonic-hc-sr04-sensor-/blob/main/CKT%20of%20Diss.%20Call_bb.png
+ for circuit diagram
+
+ open
+ https://github.com/Kratik-Verma/Measure-distance-with-LEDs-using-ultrasonic-hc-sr04-sensor-/blob/main/Dis_Call.ino
+ for code
